@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @epaulett3
-- 👀 I’m interested in you <3
+- 👋 Hi, I’m Jessie Paul, a Web Developer
+
 
 <!---
 epaulett3/epaulett3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
