@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jessie Paul, a PHP Web Developer. Feel free to browse my repository. You can contact me via email jessiepaul.pospos@gmail.com. Thanks.
+- 👋 Hi, I’m Jessie Paul, a PHP Web Developer. Feel free to browse my repositories. You can contact me via email jessiepaul.pospos@gmail.com. Thanks.
 
 
 <!---
